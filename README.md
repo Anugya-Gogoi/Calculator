@@ -5,7 +5,7 @@ A simple calculator made in Python using tkinter.
 tkinter module
 
 ## How to use?
-1. The module tkinter is in-built in Python.
+1. The module tkinter is in-built in Python default.
 2. Open the file python_calc.py in your Python text editor
 
 ## Contributing
