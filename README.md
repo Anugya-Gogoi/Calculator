@@ -6,7 +6,8 @@ tkinter module
 
 ## How to use?
 1. The module tkinter is in-built in Python default.
-2. Open the file python_calc.py in your Python text editor
+2. Open the file python_calc.py in your Python text editor.
+3. Run the program.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
