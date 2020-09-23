@@ -1,7 +1,7 @@
 # Simple-Calculator
 A simple calculator made in Python using tkinter.
 
-## Technologies Used 
+## Technology Used 
 tkinter module
 
 ## How to use?
