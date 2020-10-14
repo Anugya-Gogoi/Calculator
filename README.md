@@ -1,5 +1,5 @@
 # Simple-Calculator
-A simple calculator made in Python using tkinter.
+A simple calculator made with tkinter.
 
 ## Technology Used 
 tkinter module
